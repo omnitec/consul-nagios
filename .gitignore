@@ -1,0 +1,4 @@
+# Ignore command examples for testing
+examples
+# Ignore the pyenv environment
+.python-version
